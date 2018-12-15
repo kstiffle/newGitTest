@@ -1,0 +1,4 @@
+[submodule "hello-world"]
+	path = hello-world
+	url = https://github.com/kstiffle/hello-world.git
+	branch = master
